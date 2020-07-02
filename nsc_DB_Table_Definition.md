@@ -22,7 +22,7 @@
 
 ### 자격 및 보험료 테이블
 
-![](nsc2_bnc_1000.png)
+![](img/nsc2_bnc_1000.png)
 
 |Table Name|Table Comment
 |---|---|
@@ -51,7 +51,7 @@
 
 ### 출생 및 사망 테이블
 
-![](nsc2_bnd_1000.png)
+![](img/nsc2_bnd_1000.png)
 
 |Table Name|Table Comment
 |---|---|
@@ -76,7 +76,7 @@
 
 ### 의과_보건기관 (M)
 
-![](nsc2_m.png)
+![](img/nsc2_m.png)
 
 |Table Name|Table Comment
 |---|---|
@@ -181,7 +181,7 @@
 
 ### 치과 (D)
 
-![](nsc2_d.png)
+![](img/nsc2_d.png)
 
 |Table Name|Table Comment
 |---|---|
@@ -223,7 +223,7 @@
 
 ### 한방 (K)
 
-![](nsc2_k.png)
+![](img/nsc2_k.png)
 
 |Table Name|Table Comment
 |---|---|
@@ -258,7 +258,7 @@
 
 ### 약국 (P)
 
-![](nsc2_p.png)
+![](img/nsc2_p.png)
 
 |Table Name|Table Comment
 |---|---|
