@@ -8,12 +8,12 @@
 
 ## 개요
 
-최근 공공데이터 활용 사례가 늘어나고 있는 추세이다
-[국민건강보험 공단](https://nhiss.nhis.or.kr/)에서는 이런 추세에 발 맞추어서 건강보험 DB 를 활용할 수 있는 자료를 공개하고 있다
-건강보험 활용 교육자료는 [이곳](https://nhiss.nhis.or.kr/bbs/boards/notice/963.do) 에서 받을 수 있다
-
-그런데 자료의 파일 포맷이 [SAS](https://www.sas.com/) 와 CSV 형태이다
-SAS 는 통계/분석 전문가들에게는 친숙할 수 있으나 일반 개발자들은 RDBMS 가 상대적으로 접근성이 용이하다
+최근 공공데이터 활용 사례가 늘어나고 있는 추세이다<br/>
+[국민건강보험 공단](https://nhiss.nhis.or.kr/)에서는 이런 추세에 발 맞추어서 건강보험 DB 를 활용할 수 있는 자료를 공개하고 있다<br/>
+건강보험 활용 교육자료는 [이곳](https://nhiss.nhis.or.kr/bbs/boards/notice/963.do) 에서 받을 수 있다<br/>
+<br/>
+그런데 자료의 파일 포맷이 [SAS](https://www.sas.com/) 와 CSV 형태이다<br/>
+SAS 는 통계/분석 전문가들에게는 친숙할 수 있으나 일반 개발자들은 RDBMS 가 상대적으로 접근성이 용이하다<br/>
 
 
 ---
